@@ -1,0 +1,743 @@
+seqnames	start	end	width	strand	closest_gene	strand_gene	collision	reassigned	reassigned.to	BM_BM_01	BM_BM_03	BM_BM_06	BM_BM_12	BM_BM_24	B_BM_01	B_BM_12	B_BM_24	B_PB_03	B_PB_06	B_PB_09	B_PB_24	CD34_BM_00	CD34_BM_01	CD34_BM_12	CD34_BM_24	CFC_BM_03	CFC_BM_06	CFC_BM_12	CFC_PB_03	CFC_PB_06	CFC_PB_09	CFC_PB_12	MNC_BM_01	MNC_BM_12	MNC_BM_24	MNC_PB_01	MNC_PB_09	MNC_PB_12	MNC_PB_24	Myelo_BM_01	Myelo_BM_03	Myelo_BM_06	Myelo_BM_12	Myelo_BM_24	Myelo_PB_01	Myelo_PB_03	Myelo_PB_06	Myelo_PB_09	Myelo_PB_12	Myelo_PB_24	NK_BM_01	NK_BM_03	NK_BM_12	NK_BM_24	NK_PB_03	NK_PB_06	NK_PB_12	NK_PB_24	PB_PB_01	PB_PB_06	PB_PB_09	PB_PB_12	PB_PB_24	TE_BM_01	TE_BM_03	TE_BM_12	TE_BM_24	T_BM_12	T_BM_24	T_PB_09	T_PB_12	T_PB_24
+chr1	1197927	1197927	1	+	UBE2J2	-	FALSE	FALSE																																																		17609														
+chr1	1326380	1326380	1	-	CCNL2	-	FALSE	FALSE																																																											800					
+chr1	1345249	1345249	1	-	MRPL20	-	FALSE	FALSE																																													2283																			
+chr1	3065229	3065229	1	-	MIR4251	+	FALSE	FALSE																																			4																							164779						
+chr1	8546887	8546887	1	-	RERE	-	FALSE	FALSE																					592																																											
+chr1	9767757	9767757	1	+	PIK3CD	+	FALSE	FALSE																																										12																						
+chr1	10656993	10656993	1	+	PEX14	+	FALSE	FALSE																																														9522												2						
+chr1	16217269	16217269	1	-	SPEN	+	FALSE	FALSE						4032																					4556																																					
+chr1	16242972	16242972	1	-	SPEN	+	FALSE	FALSE																																													11																			
+chr1	16645387	16645387	1	-	FBXO42	-	FALSE	FALSE					4643																																																											
+chr1	16672851	16672851	1	-	FBXO42	-	FALSE	FALSE						1																																																										
+chr1	19556117	19556117	1	-	EMC1	-	FALSE	FALSE																				355																5																												
+chr1	21324626	21324626	1	+	EIF4G3	-	FALSE	FALSE													1255							931			1767						4921													4				2088				2903			3274	20196										
+chr1	25812251	25812251	1	+	TMEM57	+	FALSE	FALSE					2116												32861																																															
+chr1	28450877	28450877	1	-	PTAFR	-	FALSE	FALSE																				1										37384																								16164										
+chr1	28962290	28962290	1	-	TAF12	-	FALSE	FALSE																				1225																2695																							1579					
+chr1	33414041	33414041	1	+	RNF19B	-	FALSE	FALSE																																			2491																													
+chr1	35263570	35263570	1	+	GJA4	+	FALSE	FALSE																																													7669																			
+chr1	35978128	35978128	1	+	KIAA0319L	-	FALSE	FALSE																																										21																						
+chr1	36734989	36734989	1	-	THRAP3	+	FALSE	FALSE																																																											1307					
+chr1	40515629	40515629	1	+	CAP1	+	FALSE	FALSE																															5606																								4729									
+chr1	41537169	41537169	1	-	SCMH1	-	FALSE	FALSE																																																												1369				
+chr1	41698429	41698429	1	-	SCMH1	-	FALSE	FALSE																																																												30315				
+chr1	42730480	42730480	1	-	FOXJ3	-	FALSE	FALSE																																																														56553		
+chr1	42731761	42731761	1	+	FOXJ3	-	FALSE	FALSE					1252																																																											
+chr1	44238933	44238933	1	-	ST3GAL3	+	FALSE	FALSE																																														9														216				
+chr1	44899718	44899718	1	+	RNF220	+	FALSE	FALSE																				756																																												
+chr1	63484620	63484620	1	-	LINC00466	-	FALSE	FALSE			1																																																													
+chr1	67294332	67294332	1	-	WDR78	-	FALSE	FALSE																				476																																												
+chr1	91370328	91370328	1	+	ZNF644	-	FALSE	FALSE																																													99																			
+chr1	93551319	93551319	1	-	MTF2	+	FALSE	FALSE																																																												20				
+chr1	98278176	98278176	1	+	DPYD-AS2	+	FALSE	FALSE																														29128																								13778										
+chr1	100833278	100833278	1	+	CDC14A	+	FALSE	FALSE																																				883																												
+chr1	110123874	110123874	1	+	GNAI3	+	FALSE	FALSE																																				428										219														3				
+chr1	114341111	114341111	1	+	RSBN1	-	FALSE	FALSE																																										2908																						
+chr1	118428178	118428178	1	-	GDAP2	-	FALSE	FALSE																																																		1														
+chr1	121485321	121485321	1	-	EMBP1	+	FALSE	FALSE																							1																																									
+chr1	144330334	144330334	1	-	LINC00623	-	FALSE	FALSE						6																		14																																								
+chr1	147137553	147137553	1	+	ACP6	-	FALSE	FALSE																																				3																												
+chr1	150093652	150093652	1	-	VPS45	+	FALSE	FALSE						13																					13																																					
+chr1	150309969	150309969	1	-	PRPF3	+	FALSE	FALSE						97																		503																																								
+chr1	150625360	150625360	1	-	GOLPH3L	-	FALSE	FALSE													814																																																			
+chr1	151004024	151004024	1	+	PRUNE	+	FALSE	FALSE					3898																																																											
+chr1	151186374	151186374	1	-	PIP5K1A	+	FALSE	FALSE																																														12552				618									653					
+chr1	153907697	153907697	1	+	DENND4B	-	FALSE	FALSE																																																		20														
+chr1	153913854	153913854	1	+	DENND4B	-	FALSE	FALSE																																										1224																						
+chr1	154779306	154779306	1	-	KCNN3	-	FALSE	FALSE																	32																																					53										
+chr1	154878484	154878484	1	-	PMVK	-	FALSE	FALSE								616																																																								
+chr1	154889376	154889376	1	-	PMVK	-	FALSE	FALSE																		1															37102																															
+chr1	155344594	155344594	1	-	ASH1L	-	FALSE	FALSE																																									2253																							
+chr1	155467895	155467895	1	+	ASH1L	-	FALSE	FALSE																				3142																																												
+chr1	155495420	155495420	1	+	ASH1L	-	FALSE	FALSE													2560																																																			
+chr1	155505091	155505091	1	+	ASH1L	-	FALSE	FALSE																				1																																												
+chr1	157418599	157418599	1	-	FCRL5	-	FALSE	FALSE																																													3616																			
+chr1	157686641	157686641	1	+	FCRL3	-	FALSE	FALSE					20138																																																											
+chr1	160292989	160292989	1	+	COPA	-	FALSE	FALSE									1																																																							
+chr1	163017427	163017427	1	+	RGS4	+	FALSE	FALSE																										1																																						
+chr1	196001124	196001124	1	+	KCNT2	-	FALSE	FALSE																	2644																																															
+chr1	202751167	202751167	1	+	KDM5B	-	FALSE	FALSE																				1									25																								20											
+chr1	224320337	224320337	1	-	FBXO28	+	FALSE	FALSE																																				9																												
+chr1	227297433	227297433	1	-	CDC42BPA	-	FALSE	FALSE																																														1																		
+chr10	11640547	11640547	1	-	USP6NL	-	FALSE	FALSE																																													143																			
+chr10	13712595	13712595	1	+	FRMD4A	-	FALSE	FALSE					1																																																											
+chr10	42530156	42530156	1	+	LOC441666	-	FALSE	FALSE																							1																																									
+chr10	52274865	52274865	1	+	SGMS1	-	FALSE	FALSE																																																											19487					
+chr10	74989792	74989792	1	+	FAM149B1	+	FALSE	FALSE																																																							9137									
+chr10	75840470	75840470	1	-	VCL	+	FALSE	FALSE								76																																																								
+chr10	98299109	98299109	1	+	TM9SF3	-	FALSE	FALSE								1739																																																								
+chr10	99915431	99915431	1	+	R3HCC1L	+	FALSE	FALSE					442																																																											
+chr10	101930044	101930044	1	+	ERLIN1	-	FALSE	FALSE					6																																																											
+chr10	104045071	104045071	1	-	GBF1	+	FALSE	FALSE																																																						1										
+chr10	104566906	104566906	1	-	WBP1L	+	FALSE	FALSE																																														5211																		
+chr10	129314486	129314486	1	+	NPS	+	FALSE	FALSE																													1																																			
+chr11	423779	423779	1	+	ANO9	-	FALSE	FALSE					131																																																											
+chr11	587972	587972	1	-	PHRF1	+	FALSE	FALSE																														10																								15										
+chr11	755850	755850	1	-	TALDO1	+	FALSE	FALSE																																		213724																														
+chr11	5637053	5637053	1	-	TRIM6	+	FALSE	FALSE																			2																																													
+chr11	7576432	7576432	1	+	PPFIBP2	+	FALSE	FALSE																																						1																										
+chr11	9720749	9720749	1	-	SWAP70	+	FALSE	FALSE						5077																																																										933
+chr11	10142497	10142497	1	-	SBF2	-	FALSE	FALSE																																																				32												
+chr11	11877051	11877051	1	-	USP47	+	FALSE	FALSE																																																													56			
+chr11	59736621	59736621	1	+	OOSP1	+	FALSE	FALSE																				1																																												
+chr11	62596179	62596179	1	-	STX5	-	FALSE	FALSE						185																		3019																																								
+chr11	63469545	63469545	1	+	RTN3	+	FALSE	FALSE																																				3144																												
+chr11	64242939	64242939	1	-	LOC100996455	+	FALSE	FALSE																																														6523																		
+chr11	64572917	64572917	1	-	MEN1	-	FALSE	FALSE																																														10850																		
+chr11	65023745	65023745	1	+	POLA2	+	FALSE	FALSE																							1083																																									
+chr11	65112339	65112339	1	-	DPF2	+	FALSE	FALSE								7																																																								
+chr11	65611650	65611650	1	-	SNX32	+	FALSE	FALSE																																									3078																							
+chr11	65615000	65615000	1	-	SNX32	+	FALSE	FALSE																				1012																																												
+chr11	65841834	65841834	1	-	PACS1	+	FALSE	FALSE					2808																																																											
+chr11	65880931	65880931	1	-	PACS1	+	FALSE	FALSE																																																											13210					
+chr11	66412286	66412286	1	-	RBM14-RBM4	+	FALSE	FALSE																																						144																										
+chr11	66526152	66526152	1	+	C11orf80	+	FALSE	FALSE																																										25																						
+chr11	66554311	66554311	1	+	C11orf80	+	FALSE	FALSE								1																																																								
+chr11	66895908	66895908	1	+	KDM2A	+	FALSE	FALSE						384		214																			294																																					
+chr11	66896514	66896514	1	+	KDM2A	+	FALSE	FALSE								1																																																								
+chr11	66958906	66958906	1	-	KDM2A	+	FALSE	FALSE					4846																																																											
+chr11	66960912	66960912	1	+	KDM2A	+	FALSE	FALSE																				2015											21069				75470																				13392					37690				
+chr11	67060565	67060565	1	+	ANKRD13D	+	FALSE	FALSE																								1																																								
+chr11	67427262	67427262	1	-	ALDH3B2	-	FALSE	FALSE														695																																																		
+chr11	67453298	67453298	1	-	ALDH3B2	-	FALSE	FALSE																				764																																												
+chr11	68326393	68326393	1	+	PPP6R3	+	FALSE	FALSE												181																																																				
+chr11	72580281	72580281	1	+	FCHSD2	-	FALSE	FALSE																																										3586																						
+chr11	72729902	72729902	1	-	FCHSD2	-	FALSE	FALSE																							6206											305097																														
+chr11	72814619	72814619	1	-	FCHSD2	-	FALSE	FALSE					6																																																											
+chr11	73218817	73218817	1	+	FAM168A	-	FALSE	FALSE								331																																																								
+chr11	73256297	73256297	1	+	FAM168A	-	FALSE	FALSE																															4					2																						11						
+chr11	94939863	94939863	1	+	SESN3	-	FALSE	FALSE																	55																																															
+chr11	102942654	102942654	1	+	DCUN1D5	-	FALSE	FALSE																																																																29
+chr11	104023530	104023530	1	+	PDGFD	-	FALSE	FALSE																																																																651
+chr11	116830843	116830843	1	+	SIK3	-	FALSE	FALSE																																																												5462				
+chr11	116949626	116949626	1	-	SIK3	-	FALSE	FALSE																					443																																											
+chr11	120298536	120298536	1	-	ARHGEF12	+	FALSE	FALSE								62																																																								
+chr11	122765293	122765293	1	-	C11orf63	+	FALSE	FALSE																																																	18006															
+chr11	128519631	128519631	1	-	FLI1	+	FALSE	FALSE					492																																																											
+chr11	128995064	128995064	1	-	ARHGAP32	-	FALSE	FALSE																																									8198																							
+chr12	440250	440250	1	+	KDM5A	-	FALSE	FALSE								4917																																																								
+chr12	1878642	1878642	1	-	ADIPOR2	+	FALSE	FALSE																																				14605																												
+chr12	6616133	6616133	1	-	NCAPD2	+	FALSE	FALSE																																																							323									
+chr12	6745898	6745898	1	+	LPAR5	-	FALSE	FALSE																																																		1										2624				
+chr12	6860182	6860182	1	-	MLF2	-	FALSE	FALSE						387																					430																																					
+chr12	7105337	7105337	1	-	LPCAT3	-	FALSE	FALSE						5																		49																														1527										
+chr12	7529426	7529426	1	+	CD163L1	-	FALSE	FALSE								59																							6684															3131									5259									
+chr12	8214040	8214040	1	+	C3AR1	-	FALSE	FALSE																																			6																													
+chr12	8214044	8214044	1	+	C3AR1	-	FALSE	FALSE																																			1																													
+chr12	9745925	9745925	1	+	KLRB1	-	FALSE	FALSE								1												9																														817													12443	
+chr12	10070641	10070641	1	+	CLEC2A	-	FALSE	FALSE																																																											1					
+chr12	10642846	10642846	1	+	KLRC1	-	FALSE	FALSE																																																																7
+chr12	17294658	17294658	1	+	SKP1P2	+	FALSE	FALSE							1																																																									
+chr12	19295778	19295778	1	+	PLEKHA5	+	FALSE	FALSE																	184																																															
+chr12	23212894	23212894	1	+	LOC101928441	+	FALSE	FALSE																																																														5099		
+chr12	23539678	23539678	1	-	SOX5	-	FALSE	FALSE																																																				1												
+chr12	27058203	27058203	1	-	ASUN	-	FALSE	FALSE																															26																								17									
+chr12	39706215	39706215	1	+	KIF21A	-	FALSE	FALSE																																																							202									
+chr12	44355602	44355602	1	-	TMEM117	+	FALSE	FALSE																																													2296																			
+chr12	46210540	46210540	1	-	ARID2	+	FALSE	FALSE																				7562																																												
+chr12	49443638	49443638	1	+	KMT2D	-	FALSE	FALSE																																					69616																											
+chr12	49566957	49566957	1	+	TUBA1A	-	FALSE	FALSE																															3																								11									
+chr12	49798140	49798140	1	+	LOC100335030	+	FALSE	FALSE								1367																																																								
+chr12	50208583	50208583	1	-	NCKAP5L	-	FALSE	FALSE																																														2380																		
+chr12	51407106	51407106	1	+	SLC11A2	-	FALSE	FALSE																																																														47		
+chr12	51517723	51517723	1	+	TFCP2	-	FALSE	FALSE																				3737																																												
+chr12	53850893	53850893	1	-	PCBP2	+	FALSE	FALSE								3454																																																								
+chr12	53975943	53975943	1	-	ATF7	-	FALSE	FALSE																							2924																																									
+chr12	56611402	56611402	1	-	RNF41	-	FALSE	FALSE																																					8861																											
+chr12	56682887	56682887	1	+	CS	-	FALSE	FALSE									90																															7506																								
+chr12	57647600	57647600	1	+	R3HDM2	-	FALSE	FALSE						16304																					12497																																					
+chr12	59597780	59597780	1	-	LRIG3	-	FALSE	FALSE																																																										1						
+chr12	60752396	60752396	1	+	SLC16A7	+	FALSE	FALSE																				45																																												
+chr12	65036628	65036628	1	+	MIR548C	+	FALSE	FALSE																							63																																									
+chr12	89546310	89546310	1	+	LOC728084	-	FALSE	FALSE																																																				386												
+chr12	91530829	91530829	1	+	DCN	-	FALSE	FALSE																																					3200																											
+chr12	94622598	94622598	1	-	PLXNC1	+	FALSE	FALSE								902																																																								
+chr12	102569816	102569816	1	-	PARPBP	+	FALSE	FALSE																																																			1													
+chr12	105519562	105519562	1	+	KIAA1033	+	FALSE	FALSE								1																																																								
+chr12	107413658	107413658	1	+	CRY1	-	FALSE	FALSE																																																			1													
+chr12	112472479	112472479	1	-	NAA25	-	FALSE	FALSE																								8																																								
+chr12	120211109	120211109	1	+	CIT	-	FALSE	FALSE																																			8043																													
+chr12	121255801	121255801	1	+	SPPL3	-	FALSE	FALSE																							405																																									
+chr12	121777261	121777261	1	+	ANAPC5	-	FALSE	FALSE																					882																																											
+chr12	122993063	122993063	1	-	RSRC2	-	FALSE	FALSE															69200																																																	
+chr12	123018148	123018148	1	-	KNTC1	+	FALSE	FALSE																																																						4090										
+chr12	123646688	123646688	1	-	MPHOSPH9	-	FALSE	FALSE																																																												18				
+chr12	123827125	123827125	1	+	SBNO1	-	FALSE	FALSE																																																													1157			
+chr12	124005947	124005947	1	+	RILPL1	-	FALSE	FALSE																																														28																		
+chr12	132577054	132577054	1	-	EP400NL	+	FALSE	FALSE																				168																																												
+chr13	30829291	30829291	1	-	KATNAL1	-	FALSE	FALSE																																				1																												
+chr13	41195478	41195478	1	-	FOXO1	-	FALSE	FALSE																																											16298																					
+chr13	53266941	53266941	1	-	SUGT1	+	FALSE	FALSE					1																																																											
+chr13	70080824	70080824	1	-	LINC00383	+	FALSE	FALSE																																			1																													
+chr13	72272777	72272777	1	-	DACH1	-	FALSE	FALSE																																				2930																												
+chr13	72435266	72435266	1	-	DACH1	-	FALSE	FALSE																																	64																															
+chr13	91288965	91288965	1	-	LINC01049	+	FALSE	FALSE																																																												3				
+chr14	24450865	24450865	1	+	DHRS4L2	+	FALSE	FALSE					5																																																											
+chr14	24493664	24493664	1	+	DHRS4L1	+	FALSE	FALSE					2			2																																						4																		
+chr14	35770029	35770029	1	-	PSMA6	+	FALSE	FALSE																																																				1921												
+chr14	42746337	42746337	1	-	LRFN5	+	FALSE	FALSE																							200																																									
+chr14	46853743	46853743	1	+	LINC00871	+	FALSE	FALSE									1																																																							
+chr14	47684025	47684025	1	+	MDGA2	-	FALSE	FALSE																																					14374																											
+chr14	55146896	55146896	1	+	SAMD4A	+	FALSE	FALSE									398																																																							
+chr14	58772095	58772095	1	+	ARID4A	+	FALSE	FALSE						58																					67																																					
+chr14	91641128	91641128	1	-	C14orf159	+	FALSE	FALSE																																						1																										
+chr14	91933044	91933044	1	+	SMEK1	-	FALSE	FALSE						2669																					2950																																					
+chr14	92265824	92265824	1	-	TC2N	-	FALSE	FALSE																																			4757																													
+chr14	97004228	97004228	1	+	PAPOLA	+	FALSE	FALSE																																			48990																			136										
+chr14	97036553	97036553	1	+	PAPOLA	+	FALSE	FALSE						55																																																										
+chr14	103140846	103140846	1	+	RCOR1	+	FALSE	FALSE																				688																																												
+chr15	31703571	31703571	1	+	KLF13	+	FALSE	FALSE																																				1																												
+chr15	31757175	31757175	1	+	OTUD7A	-	FALSE	FALSE																																																										1						
+chr15	40384699	40384699	1	+	BMF	-	FALSE	FALSE																																									2056																							
+chr15	40890901	40890901	1	-	CASC5	+	FALSE	FALSE					5316																																																											
+chr15	42509765	42509765	1	+	TMEM87A	-	FALSE	FALSE																																						49454																										
+chr15	42909362	42909362	1	-	STARD9	+	FALSE	FALSE																																				1431																												
+chr15	50640961	50640961	1	+	FLJ10038	-	FALSE	FALSE																																														2600																		
+chr15	54641951	54641951	1	-	UNC13C	+	FALSE	FALSE																				772																																												
+chr15	56474994	56474994	1	+	RFX7	-	FALSE	FALSE																																				70																												
+chr15	59788200	59788200	1	-	FAM81A	+	FALSE	FALSE																				4309																																												
+chr15	60236142	60236142	1	+	FOXB1	+	FALSE	FALSE																																				2383																												
+chr15	64804984	64804984	1	-	ZNF609	+	FALSE	FALSE																				19			1																																									
+chr15	66056114	66056114	1	-	DENND4A	-	FALSE	FALSE					2546																																																											
+chr15	67536508	67536508	1	+	AAGAB	-	FALSE	FALSE																																																										82957						
+chr15	68615104	68615104	1	+	ITGA11	-	FALSE	FALSE																																																							2									
+chr15	72157608	72157608	1	+	MYO9A	-	FALSE	FALSE																				169																																												
+chr15	72844975	72844975	1	+	ARIH1	+	FALSE	FALSE						3																		21691																																								
+chr15	74950794	74950794	1	+	EDC3	-	FALSE	FALSE																																														286																		
+chr15	74972525	74972525	1	-	EDC3	-	FALSE	FALSE																				1																																												
+chr15	75410447	75410447	1	-	PPCDC	+	FALSE	FALSE						10193																					6509																																					
+chr15	76533086	76533086	1	+	ETFA	-	FALSE	FALSE																																													87																			
+chr16	275263	275263	1	+	LUC7L	-	FALSE	FALSE																																				12																												
+chr16	293067	293067	1	-	ITFG3	+	FALSE	FALSE																																																											1					
+chr16	498444	498444	1	-	RAB11FIP3	+	FALSE	FALSE																																364																																
+chr16	593187	593187	1	+	MIR3176	+	FALSE	FALSE																								1875																																								
+chr16	1738994	1738994	1	+	HN1L	+	FALSE	FALSE																																																														5351		
+chr16	1802324	1802324	1	+	MAPK8IP3	+	FALSE	FALSE					32521	3294																				94946																																						
+chr16	1804924	1804924	1	-	MAPK8IP3	+	FALSE	FALSE																																										188																						
+chr16	1990131	1990131	1	+	MSRB1	-	FALSE	FALSE																																																						1813										
+chr16	2083648	2083648	1	+	SLC9A3R2	+	FALSE	FALSE																					4																																											
+chr16	2096372	2096372	1	+	NTHL1	-	FALSE	FALSE																																																												1761				
+chr16	2312199	2312199	1	+	RNPS1	-	FALSE	FALSE												11																																																				
+chr16	2314869	2314869	1	+	RNPS1	-	FALSE	FALSE																																									2299																							
+chr16	2425668	2425668	1	-	ABCA17P	+	FALSE	FALSE																																																										4						
+chr16	2428796	2428796	1	+	ABCA17P	+	FALSE	FALSE																																													3494																			
+chr16	2810631	2810631	1	+	SRRM2	+	FALSE	FALSE																																										1863																						
+chr16	3114741	3114741	1	+	IL32	+	FALSE	FALSE						8																																																										
+chr16	3877279	3877279	1	-	CREBBP	-	FALSE	FALSE																	3																																															
+chr16	4532195	4532195	1	-	HMOX2	+	FALSE	FALSE																																			1719											157																		
+chr16	11818204	11818204	1	+	TXNDC11	-	FALSE	FALSE																				1496																																												
+chr16	14298864	14298864	1	-	MKL2	+	FALSE	FALSE																																																												798				
+chr16	15102094	15102094	1	+	PDXDC1	+	FALSE	FALSE																																										1																						
+chr16	15785038	15785038	1	+	NDE1	+	FALSE	FALSE					3																					11													48485																									
+chr16	15997565	15997565	1	-	FOPNL	-	FALSE	FALSE																		1																																														
+chr16	18809437	18809437	1	-	ARL6IP1	-	FALSE	FALSE																																																						8347										
+chr16	21890915	21890915	1	-	RRN3P1	-	FALSE	FALSE																150																																																
+chr16	21890984	21890984	1	-	RRN3P1	-	FALSE	FALSE																																																						2										
+chr16	22061336	22061336	1	-	C16orf52	+	FALSE	FALSE																				763																																												
+chr16	27536009	27536009	1	-	GTF3C1	-	FALSE	FALSE																				459										6335																								8905										
+chr16	29442866	29442866	1	+	LOC606724	+	FALSE	FALSE																																																						2										
+chr16	29539214	29539214	1	-	SMG1P2	-	FALSE	FALSE																																																						366										
+chr16	29805853	29805853	1	-	KIF22	+	FALSE	FALSE		328236																																																														
+chr16	48742985	48742985	1	+	MIR5095	+	FALSE	FALSE																																																				1												
+chr16	49628406	49628406	1	+	ZNF423	-	FALSE	FALSE						7																					1																																					
+chr16	67100021	67100021	1	+	CBFB	+	FALSE	FALSE																																																															6910	
+chr16	67110428	67110428	1	+	CBFB	+	FALSE	FALSE						137																		1422																																								
+chr16	67738091	67738091	1	-	GFOD2	-	FALSE	FALSE								5																																																								
+chr16	68370044	68370044	1	-	PRMT7	+	FALSE	FALSE																																																												2				
+chr16	70357746	70357746	1	-	DDX19B	+	FALSE	FALSE																																																															2	
+chr16	71837546	71837546	1	+	AP1G1	-	FALSE	FALSE																								44																																								
+chr16	71949479	71949479	1	-	IST1	+	FALSE	FALSE					1																																																											
+chr16	84034570	84034570	1	-	NECAB2	+	FALSE	FALSE																																																				1												
+chr16	88816909	88816909	1	+	PIEZO1	-	FALSE	FALSE								390																																																								
+chr16	88873176	88873176	1	+	CDT1	+	FALSE	FALSE								8163																																																								
+chr16	88913755	88913755	1	+	GALNS	-	FALSE	FALSE																																																											5					
+chr16	89205894	89205894	1	-	ACSF3	+	FALSE	FALSE												5599																																																				
+chr16	89550896	89550896	1	+	ANKRD11	-	FALSE	FALSE																																					21809																											
+chr16	89803860	89803860	1	-	FANCA	-	FALSE	FALSE																																										3																						
+chr17	1649944	1649944	1	-	SERPINF2	+	FALSE	FALSE													34																																																			
+chr17	2154382	2154382	1	-	SMG6	-	FALSE	FALSE																																				10757																												
+chr17	2195217	2195217	1	+	SMG6	-	FALSE	FALSE									16300																										2811																													
+chr17	2195391	2195391	1	-	SMG6	-	FALSE	FALSE						140																		3101																																								
+chr17	2386467	2386467	1	-	METTL16	-	FALSE	FALSE																																																															47	
+chr17	2387643	2387643	1	+	METTL16	-	FALSE	FALSE																																																											1688					
+chr17	2519759	2519759	1	+	PAFAH1B1	+	FALSE	FALSE																				5278																																												
+chr17	2560826	2560826	1	-	PAFAH1B1	+	FALSE	FALSE																				59																														6														
+chr17	2896855	2896855	1	+	RAP1GAP2	+	FALSE	FALSE																				45																524																												
+chr17	4192904	4192904	1	+	UBE2G1	-	FALSE	FALSE																															636																								382									
+chr17	4193036	4193036	1	-	UBE2G1	-	FALSE	FALSE																															1																																	
+chr17	4193038	4193038	1	-	UBE2G1	-	FALSE	FALSE																															1																																	
+chr17	4222949	4222949	1	-	UBE2G1	-	FALSE	FALSE																																																																21
+chr17	4235475	4235475	1	+	UBE2G1	-	FALSE	FALSE																																			1379																													
+chr17	4597180	4597180	1	-	PELP1	-	FALSE	FALSE																																																											2456					
+chr17	4913202	4913202	1	+	KIF1C	+	FALSE	FALSE																													413																								425											
+chr17	5227799	5227799	1	-	RABEP1	+	FALSE	FALSE																																																														3		
+chr17	7314891	7314891	1	-	NLGN2	+	FALSE	FALSE																																				316																												
+chr17	7420731	7420731	1	-	POLR2A	+	FALSE	FALSE																																									1																							
+chr17	7472319	7472319	1	+	SENP3	+	FALSE	FALSE																																										9023																						
+chr17	7514754	7514754	1	-	SHBG	+	FALSE	FALSE					1																																																											
+chr17	7515209	7515209	1	-	SHBG	+	FALSE	FALSE					656																																																											
+chr17	7782005	7782005	1	+	CHD3	+	FALSE	FALSE																																																			4													
+chr17	8135303	8135303	1	+	CTC1	-	FALSE	FALSE																																																											33					
+chr17	8463472	8463472	1	-	MYH10	-	FALSE	FALSE																				1584																																												
+chr17	16060419	16060419	1	+	NCOR1	-	FALSE	FALSE					712																																																											
+chr17	20097040	20097040	1	-	SPECC1	+	FALSE	FALSE																																																		5														
+chr17	27676272	27676272	1	+	MIR4523	+	FALSE	FALSE																				130																																												
+chr17	27800970	27800970	1	-	TAOK1	+	FALSE	FALSE																																																						1										
+chr17	29355963	29355963	1	-	RNF135	+	FALSE	FALSE																																				1																												
+chr17	29528825	29528825	1	-	NF1	+	FALSE	FALSE																																			405						130	329																						
+chr17	29580328	29580328	1	+	NF1	+	FALSE	FALSE								1533																																															23									
+chr17	29590064	29590064	1	-	NF1	+	FALSE	FALSE																															2																								1									
+chr17	29661086	29661086	1	-	NF1	+	FALSE	FALSE																																								49																								
+chr17	29664114	29664114	1	-	NF1	+	FALSE	FALSE																																								3973	72																							
+chr17	30362229	30362229	1	+	LRRC37B	+	FALSE	FALSE																														152																								297										
+chr17	33920331	33920331	1	+	AP2B1	+	FALSE	FALSE																																									8																							
+chr17	36377584	36377584	1	-	LOC440434	-	FALSE	FALSE																																									17																		80					
+chr17	37670031	37670031	1	+	CDK12	+	FALSE	FALSE												3151																																																				
+chr17	40377835	40377835	1	+	STAT5B	-	FALSE	FALSE																																																						48										
+chr17	40415485	40415485	1	+	STAT5B	-	FALSE	FALSE																							701																																									
+chr17	40454212	40454212	1	+	STAT5A	+	FALSE	FALSE																																																		618														
+chr17	40506322	40506322	1	-	STAT3	-	FALSE	FALSE																																									3																							
+chr17	40507176	40507176	1	+	STAT3	-	FALSE	FALSE																																				16728																												
+chr17	40534375	40534375	1	+	STAT3	-	FALSE	FALSE																																																														4980		
+chr17	40963065	40963065	1	-	CNTD1	+	FALSE	FALSE													66																												429	1																						
+chr17	43294268	43294268	1	+	FMNL1	+	FALSE	FALSE																																										1																						
+chr17	44184755	44184755	1	-	KANSL1	-	FALSE	FALSE																																				3473																												
+chr17	45510700	45510700	1	+	EFCAB13	+	FALSE	FALSE																																44082																																
+chr17	46449487	46449487	1	+	SKAP1	-	FALSE	FALSE																																																						78										
+chr17	46987910	46987910	1	+	UBE2Z	+	FALSE	FALSE					1363																																																											
+chr17	47003682	47003682	1	+	UBE2Z	+	FALSE	FALSE																				1414																																												
+chr17	48814281	48814281	1	+	LUC7L3	+	FALSE	FALSE								681												3103															3610																							3492		744				
+chr17	57725413	57725413	1	-	CLTC	+	FALSE	FALSE					4																																			186										479														
+chr17	57740515	57740515	1	+	CLTC	+	FALSE	FALSE																				665																																												
+chr17	57879965	57879965	1	-	VMP1	+	FALSE	FALSE																																										605																						
+chr17	62592924	62592924	1	-	SMURF2	-	FALSE	FALSE																																																											325					
+chr17	62614734	62614734	1	+	SMURF2	-	FALSE	FALSE																							2345																																									
+chr17	67300636	67300636	1	-	ABCA5	-	FALSE	FALSE																							1992																						5036																			
+chr17	73362754	73362754	1	+	GRB2	-	FALSE	FALSE						58																					118																																					
+chr17	73462870	73462870	1	+	KIAA0195	+	FALSE	FALSE																																					9																											
+chr17	73757914	73757914	1	+	GALK1	-	FALSE	FALSE																																																												55				
+chr17	73774017	73774017	1	+	H3F3B	-	FALSE	FALSE						19																		125																																								
+chr17	73961068	73961068	1	+	ACOX1	-	FALSE	FALSE													10370																																																			
+chr17	74048044	74048044	1	+	SRP68	-	FALSE	FALSE																							5472																																									
+chr17	74735501	74735501	1	-	MFSD11	+	FALSE	FALSE																																									4276																							
+chr17	75976745	75976745	1	+	TNRC6C	+	FALSE	FALSE					4670																																	4546																										
+chr17	75997912	75997912	1	+	TNRC6C	+	FALSE	FALSE																																										1643																						
+chr17	78578552	78578552	1	+	RPTOR	+	FALSE	FALSE																																				2712																												
+chr17	78687422	78687422	1	+	RPTOR	+	FALSE	FALSE																																				1392																												
+chr17	79189245	79189245	1	+	CEP131	-	FALSE	FALSE																							144																																									
+chr17	79262744	79262744	1	-	SLC38A10	-	FALSE	FALSE																																													1																			
+chr17	79415730	79415730	1	+	BAHCC1	+	FALSE	FALSE																																																											2					
+chr17	79534505	79534505	1	-	NPLOC4	-	FALSE	FALSE					55																																																											
+chr17	79561482	79561482	1	-	NPLOC4	-	FALSE	FALSE																																				2																												
+chr17	80219325	80219325	1	+	CSNK1D	-	FALSE	FALSE																																																											5070					
+chr17	80955539	80955539	1	+	B3GNTL1	-	FALSE	FALSE						34																		199																																			2964					
+chr17	80977282	80977282	1	+	B3GNTL1	-	FALSE	FALSE																																													10517																			
+chr18	185526	185526	1	+	USP14	+	FALSE	FALSE																																														1706																		
+chr18	8982151	8982151	1	-	NDUFV2	+	FALSE	FALSE																																																			2													
+chr18	9357827	9357827	1	+	TWSG1	+	FALSE	FALSE																														2																								1										
+chr18	28386119	28386119	1	+	DSC3	-	FALSE	FALSE																																																				81												
+chr18	29986898	29986898	1	+	GAREM	-	FALSE	FALSE																																																									59360							
+chr18	42572573	42572573	1	+	MIR4319	-	FALSE	FALSE																																																												32				
+chr18	45363241	45363241	1	-	SMAD2	-	FALSE	FALSE																																									5																							
+chr18	46651288	46651288	1	+	DYM	-	FALSE	FALSE																																				91																												
+chr18	48760214	48760214	1	+	MEX3C	-	FALSE	FALSE																																													1																			
+chr18	59883529	59883529	1	-	KIAA1468	+	FALSE	FALSE																	1730																																															
+chr18	61063311	61063311	1	+	VPS4B	-	FALSE	FALSE																							2182																																									
+chr18	61838159	61838159	1	-	LINC00305	-	FALSE	FALSE																														3																																		
+chr19	692866	692866	1	+	PRSS57	-	FALSE	FALSE									16392																																																							
+chr19	811315	811315	1	-	PTBP1	+	FALSE	FALSE																																									3123				5255																			
+chr19	954004	954004	1	+	ARID3A	+	FALSE	FALSE					10646																																																											
+chr19	1115216	1115216	1	-	SBNO2	-	FALSE	FALSE																							1																																									
+chr19	1143200	1143200	1	+	SBNO2	-	FALSE	FALSE																																			5903																													
+chr19	1182671	1182671	1	+	SBNO2	-	FALSE	FALSE																																														139																		
+chr19	1832473	1832473	1	+	REXO1	-	FALSE	FALSE					2															195																																			85295									
+chr19	1892689	1892689	1	+	ABHD17A	-	FALSE	FALSE																																																		1														
+chr19	1903878	1903878	1	+	ADAT3	+	FALSE	FALSE																				74																																												
+chr19	2038071	2038071	1	-	MKNK2	-	FALSE	FALSE																																									1																							
+chr19	2537775	2537775	1	+	GNG7	-	FALSE	FALSE																																			3641																													
+chr19	2593232	2593232	1	+	MIR7850	+	FALSE	FALSE																																										1405																						
+chr19	2677807	2677807	1	+	GNG7	-	FALSE	FALSE																																														38				850														
+chr19	3112150	3112150	1	-	GNA11	+	FALSE	FALSE						37679																																																										
+chr19	4405319	4405319	1	-	CHAF1A	+	FALSE	FALSE																															44902																								29690									
+chr19	5134414	5134414	1	-	KDM4B	+	FALSE	FALSE																				21151																																												
+chr19	5636521	5636521	1	-	SAFB	+	FALSE	FALSE																														4																								1										
+chr19	5649918	5649918	1	-	SAFB	+	FALSE	FALSE						6																					2																																					
+chr19	6545226	6545226	1	-	TNFSF9	+	FALSE	FALSE																																																											717					
+chr19	6704437	6704437	1	-	C3	-	FALSE	FALSE																																				961																												
+chr19	6845778	6845778	1	-	VAV1	+	FALSE	FALSE																																																											62					
+chr19	6849583	6849583	1	-	VAV1	+	FALSE	FALSE						3																																																										
+chr19	7500553	7500553	1	+	ARHGEF18	+	FALSE	FALSE														8861																																																		
+chr19	8055201	8055201	1	+	ELAVL1	-	FALSE	FALSE									994																																																							
+chr19	8522491	8522491	1	+	HNRNPM	+	FALSE	FALSE																							950																																									
+chr19	8523996	8523996	1	+	HNRNPM	+	FALSE	FALSE																														23521																								10463										
+chr19	8800797	8800797	1	+	ACTL9	-	FALSE	FALSE								59																																																								
+chr19	9253277	9253277	1	+	ZNF317	+	FALSE	FALSE													1943																																																			
+chr19	12222757	12222757	1	-	ZNF788	+	FALSE	FALSE																																													30792																			
+chr19	12289063	12289063	1	-	ZNF136	+	FALSE	FALSE																	973			66																																												
+chr19	12702731	12702731	1	+	ZNF490	-	FALSE	FALSE																								1717																																								
+chr19	12730187	12730187	1	-	ZNF791	+	FALSE	FALSE					608																																																											
+chr19	13188478	13188478	1	-	NFIX	+	FALSE	FALSE						19																		7549																																								
+chr19	13237139	13237139	1	+	NACC1	+	FALSE	FALSE																																	17069																															
+chr19	14007845	14007845	1	-	C19orf57	-	FALSE	FALSE																																																															45	
+chr19	14453135	14453135	1	+	CD97	+	FALSE	FALSE																																														157																		
+chr19	14938735	14938735	1	+	OR7A5	-	FALSE	FALSE																																																		342														
+chr19	14970906	14970906	1	-	OR7A10	-	FALSE	FALSE																																								4484																								
+chr19	14985658	14985658	1	+	OR7A17	-	FALSE	FALSE																				1803																										1845																		
+chr19	15381665	15381665	1	+	BRD4	-	FALSE	FALSE																																	302																													98		
+chr19	34694835	34694835	1	+	LSM14A	+	FALSE	FALSE																																													453										5									
+chr19	34696052	34696052	1	-	LSM14A	+	FALSE	FALSE																				31																					1606																							
+chr19	36379158	36379158	1	-	NFKBID	-	FALSE	FALSE																				8497																																												
+chr19	36410733	36410733	1	+	TYROBP	-	FALSE	FALSE																																													3190																			
+chr19	36670767	36670767	1	-	ZNF565	-	FALSE	FALSE																																																			1													
+chr19	38244413	38244413	1	+	ZNF573	-	FALSE	FALSE																																				1136																												
+chr19	38425065	38425065	1	-	SIPA1L3	+	FALSE	FALSE																							812																																									
+chr19	39146965	39146965	1	+	ACTN4	+	FALSE	FALSE																																										3296																						
+chr19	40507912	40507912	1	+	ZNF546	+	FALSE	FALSE																				11041																																												
+chr19	41212499	41212499	1	-	ADCK4	-	FALSE	FALSE																																			7729																								16812					
+chr19	42450978	42450978	1	-	RABAC1	-	FALSE	FALSE																																				1699																												
+chr19	42869115	42869115	1	-	MEGF8	+	FALSE	FALSE					1422																																																											
+chr19	44583062	44583062	1	-	ZNF284	+	FALSE	FALSE																				189																																												
+chr19	44622296	44622296	1	+	ZNF225	+	FALSE	FALSE																																			14528																													
+chr19	45142740	45142740	1	-	IGSF23	+	FALSE	FALSE					10266																																																						21735					
+chr19	48008485	48008485	1	-	NAPA	-	FALSE	FALSE																																								10188																								
+chr19	48137256	48137256	1	-	GLTSCR1	+	FALSE	FALSE																																																												2				
+chr19	49126314	49126314	1	+	SPHK2	+	FALSE	FALSE																																									1																							
+chr19	49204073	49204073	1	-	FUT2	+	FALSE	FALSE																																													1774																			
+chr19	49345144	49345144	1	+	PLEKHA4	-	FALSE	FALSE						2199																																																										
+chr19	49818880	49818880	1	-	SLC6A16	-	FALSE	FALSE																																																							68									
+chr19	49824266	49824266	1	-	SLC6A16	-	FALSE	FALSE																																																						2										
+chr19	50083275	50083275	1	-	NOSIP	-	FALSE	FALSE						49		1272																			79																																					
+chr19	52849003	52849003	1	-	ZNF610	+	FALSE	FALSE																								59																		205																						
+chr19	53216529	53216529	1	-	ZNF611	-	FALSE	FALSE																							40																																									
+chr19	54708296	54708296	1	+	RPS9	+	FALSE	FALSE																				7																										1523																		
+chr19	54730209	54730209	1	+	LILRB3	-	FALSE	FALSE																																				26522										21662									50229									
+chr19	54953818	54953818	1	-	LENG8-AS1	-	FALSE	FALSE																																									77																							
+chr19	55760285	55760285	1	-	PPP6R1	-	FALSE	FALSE												3249																												24																								
+chr2	7898091	7898091	1	+	LOC101929551	-	FALSE	FALSE																																			2																													
+chr2	11284491	11284491	1	-	C2orf50	+	FALSE	FALSE																				68																																												
+chr2	28157188	28157188	1	+	BRE	+	FALSE	FALSE																																																	3376															
+chr2	38825742	38825742	1	-	HNRNPLL	-	FALSE	FALSE					3				13749																	1																																						
+chr2	39521413	39521413	1	-	MAP4K3	-	FALSE	FALSE																																													15443																			
+chr2	40995054	40995054	1	-	SLC8A1	-	FALSE	FALSE																	908																																															
+chr2	41136206	41136206	1	+	SLC8A1	-	FALSE	FALSE						1																		983												15																												
+chr2	43691582	43691582	1	+	THADA	-	FALSE	FALSE																										1																																						
+chr2	58859363	58859363	1	-	LINC01122	+	FALSE	FALSE																																443																																
+chr2	59265894	59265894	1	+	LINC01122	+	FALSE	FALSE																							18040																																									
+chr2	64341017	64341017	1	-	PELI1	-	FALSE	FALSE																																																															1092	
+chr2	64897434	64897434	1	+	SERTAD2	-	FALSE	FALSE												4814																																																				
+chr2	64914952	64914952	1	-	SERTAD2	-	FALSE	FALSE																																																												31				
+chr2	79004945	79004945	1	-	REG3G	+	FALSE	FALSE																														9635																								4728										
+chr2	109095332	109095332	1	+	GCC2	+	FALSE	FALSE														76255																																																		
+chr2	109348353	109348353	1	+	RANBP2	+	FALSE	FALSE																																																																177
+chr2	113425535	113425535	1	-	SLC20A1	+	FALSE	FALSE													18065																																																			
+chr2	124111507	124111507	1	-	CNTNAP5	+	FALSE	FALSE						77																		312																																								
+chr2	133487730	133487730	1	+	NCKAP5	-	FALSE	FALSE																																													1																			
+chr2	149041887	149041887	1	+	MBD5	+	FALSE	FALSE																																																											377					
+chr2	152272690	152272690	1	-	RIF1	+	FALSE	FALSE																				83																																												
+chr2	157100499	157100499	1	+	LOC101929378	-	FALSE	FALSE						53																		222																																								
+chr2	165623611	165623611	1	-	COBLL1	-	FALSE	FALSE																																																							16380				4667					
+chr2	170524310	170524310	1	-	CCDC173	-	FALSE	FALSE																																																				727												
+chr2	172604261	172604261	1	-	DYNC1I2	+	FALSE	FALSE																																				1941																												
+chr2	173951668	173951668	1	+	ZAK	+	FALSE	FALSE																				5																																												
+chr2	174813746	174813746	1	+	SP3	-	FALSE	FALSE																				846																																												
+chr2	181858416	181858416	1	-	UBE2E3	+	FALSE	FALSE					26																																																											
+chr2	188263035	188263035	1	+	CALCRL	-	FALSE	FALSE																																																														33		
+chr2	198323010	198323010	1	+	COQ10B	+	FALSE	FALSE		7																							4																																							
+chr2	201994202	201994202	1	-	CFLAR	+	FALSE	FALSE																	62																																															
+chr2	203635692	203635692	1	+	FAM117B	+	FALSE	FALSE																																																										81						
+chr2	215596114	215596114	1	+	BARD1	-	FALSE	FALSE																																																												2				
+chr2	224821668	224821668	1	+	MRPL44	+	FALSE	FALSE																																				1269																												
+chr2	230686499	230686499	1	-	TRIP12	-	FALSE	FALSE																				1553																																												
+chr2	232123703	232123703	1	-	ARMC9	+	FALSE	FALSE																																									2077																							
+chr2	242225766	242225766	1	-	HDLBP	-	FALSE	FALSE																																									10																							
+chr2	242238490	242238490	1	-	SEPT2	+	FALSE	FALSE								3548																																																								
+chr2	242711748	242711748	1	+	D2HGDH	+	FALSE	FALSE									1																																																							
+chr20	832163	832163	1	+	FAM110A	+	FALSE	FALSE																																			84																													
+chr20	3134616	3134616	1	+	UBOX5-AS1	+	FALSE	FALSE					7																																																											
+chr20	8250574	8250574	1	+	PLCB1	+	FALSE	FALSE																														11																								17										
+chr20	8446145	8446145	1	-	PLCB1	+	FALSE	FALSE									96																																																							
+chr20	22764513	22764513	1	+	LINC01384	-	FALSE	FALSE																																																				1												
+chr20	31358537	31358537	1	-	DNMT3B	+	FALSE	FALSE						2																					1																																					
+chr20	32813291	32813291	1	-	ASIP	+	FALSE	FALSE																				56																																												
+chr20	33484967	33484967	1	+	ACSS2	+	FALSE	FALSE																																														9889																		
+chr20	61205492	61205492	1	+	MIR1-1HG	+	FALSE	FALSE						8																					18																																					
+chr20	61833198	61833198	1	+	YTHDF1	-	FALSE	FALSE																				9																																												
+chr20	62620478	62620478	1	+	PRPF6	+	FALSE	FALSE						59																		713																																								
+chr21	14863252	14863252	1	+	LOC102724188	+	FALSE	FALSE					1																																																											
+chr21	17149291	17149291	1	-	USP25	+	FALSE	FALSE																																								4892																								
+chr21	17204344	17204344	1	-	USP25	+	FALSE	FALSE								39																																																								
+chr21	22710859	22710859	1	-	NCAM2	+	FALSE	FALSE																																																											44					
+chr21	24972468	24972468	1	-	D21S2088E	-	FALSE	FALSE																	1918																																															
+chr21	27331018	27331018	1	-	APP	-	FALSE	FALSE																																41997																																
+chr21	27435419	27435419	1	+	APP	-	FALSE	FALSE																																																												1				
+chr21	28841811	28841811	1	+	MIR5009	-	FALSE	FALSE																				1																																												
+chr21	33080892	33080892	1	-	SCAF4	-	FALSE	FALSE																				483																																												
+chr21	34722919	34722919	1	-	IFNAR1	+	FALSE	FALSE																																										1476																						
+chr21	40599685	40599685	1	-	BRWD1	-	FALSE	FALSE																																								4916																								
+chr21	40631219	40631219	1	-	BRWD1	-	FALSE	FALSE																																														13																		
+chr21	40631222	40631222	1	-	BRWD1	-	FALSE	FALSE																																														10																		
+chr21	40631224	40631224	1	-	BRWD1	-	FALSE	FALSE																																														10																		
+chr21	45440319	45440319	1	+	TRAPPC10	+	FALSE	FALSE																																																		3														
+chr21	45450953	45450953	1	-	TRAPPC10	+	FALSE	FALSE																																									13964																							
+chr21	46226590	46226590	1	+	SUMO3	-	FALSE	FALSE																															4																								4			99						
+chr21	47488377	47488377	1	-	COL6A2	+	FALSE	FALSE																																					2																											
+chr21	47826876	47826876	1	-	PCNT	+	FALSE	FALSE																																																							4					6029				
+chr22	21467089	21467089	1	+	BCRP2	+	FALSE	FALSE														111																																																		
+chr22	22076337	22076337	1	-	YPEL1	-	FALSE	FALSE																																				5583																												
+chr22	29288491	29288491	1	+	ZNRF3	+	FALSE	FALSE																																																		425														
+chr22	36231876	36231876	1	+	RBFOX2	-	FALSE	FALSE																				2337																																												
+chr22	38895076	38895076	1	-	DDX17	-	FALSE	FALSE																																																												1127				
+chr22	41072312	41072312	1	-	MCHR1	+	FALSE	FALSE																				16																									6096																			
+chr22	41220629	41220629	1	-	ST13	-	FALSE	FALSE						7																					5																																					
+chr22	41237929	41237929	1	+	ST13	-	FALSE	FALSE																																																													12418			
+chr22	50083266	50083266	1	-	C22orf34	-	FALSE	FALSE																				3851																																												
+chr22	50833659	50833659	1	+	PPP6R2	+	FALSE	FALSE					26745																					36280																																						32
+chr22	51091556	51091556	1	+	SHANK3	+	FALSE	FALSE																							6540																																									
+chr3	8987748	8987748	1	-	RAD18	-	FALSE	FALSE																				5																																												
+chr3	10074160	10074160	1	-	FANCD2	+	FALSE	FALSE									1850											914																					6	19																						
+chr3	24692616	24692616	1	+	MIR4792	-	FALSE	FALSE								27																																																								
+chr3	31635850	31635850	1	+	STT3B	+	FALSE	FALSE																																						1																										
+chr3	33675939	33675939	1	-	CLASP2	-	FALSE	FALSE																								573																																								
+chr3	37361697	37361697	1	+	GOLGA4	+	FALSE	FALSE																																					18003																											
+chr3	45210592	45210592	1	+	CDCP1	-	FALSE	FALSE																															13054																								22596									
+chr3	45866822	45866822	1	-	LZTFL1	-	FALSE	FALSE													3271																																																			
+chr3	47031372	47031372	1	-	NBEAL2	+	FALSE	FALSE						46																					36																			575																		
+chr3	47784145	47784145	1	+	SMARCC1	-	FALSE	FALSE																																																		7														
+chr3	48375550	48375550	1	+	SPINK8	-	FALSE	FALSE																																																										7						
+chr3	48966372	48966372	1	-	ARIH2	+	FALSE	FALSE																																																							23									
+chr3	48972728	48972728	1	+	ARIH2	+	FALSE	FALSE												6191																																																				
+chr3	49110573	49110573	1	+	QRICH1	-	FALSE	FALSE																	34																																															
+chr3	49802689	49802689	1	-	IP6K1	-	FALSE	FALSE																																																													461			
+chr3	49995174	49995174	1	-	RBM6	+	FALSE	FALSE					199																																																											
+chr3	50065608	50065608	1	+	RBM6	+	FALSE	FALSE																				1753																																												
+chr3	50135064	50135064	1	+	RBM5-AS1	-	FALSE	FALSE													1550																																																			
+chr3	56702617	56702617	1	-	FAM208A	-	FALSE	FALSE																																													3															28846				
+chr3	58895217	58895217	1	-	C3orf67	-	FALSE	FALSE																																										10055																						
+chr3	87314982	87314982	1	-	POU1F1	-	FALSE	FALSE																															3																								2									
+chr3	128862772	128862772	1	+	ISY1	-	FALSE	FALSE																								22																																								
+chr3	136660445	136660445	1	+	NCK1	+	FALSE	FALSE																																													4																			
+chr3	138401735	138401735	1	+	PIK3CB	-	FALSE	FALSE																								476																																								
+chr3	145418418	145418418	1	-	PLOD2	-	FALSE	FALSE																																																	187															
+chr3	150338349	150338349	1	+	SELT	+	FALSE	FALSE																																				3129																												
+chr3	182616758	182616758	1	+	ATP11B	+	FALSE	FALSE									13729																																																							
+chr3	183201141	183201141	1	-	KLHL6	-	FALSE	FALSE																				5																																												
+chr3	183363312	183363312	1	+	KLHL24	+	FALSE	FALSE																																									10																							
+chr3	184609029	184609029	1	-	VPS8	+	FALSE	FALSE																				13																																												
+chr3	195036371	195036371	1	-	ACAP2	-	FALSE	FALSE																																																		12														
+chr3	195070973	195070973	1	+	ACAP2	-	FALSE	FALSE													15																																																			
+chr3	197522060	197522060	1	+	LRCH3	+	FALSE	FALSE																																				3724																												
+chr4	2551118	2551118	1	-	RNF4	+	FALSE	FALSE																																														1																		
+chr4	2713807	2713807	1	-	FAM193A	+	FALSE	FALSE																				5666															1677																								5975					
+chr4	3289337	3289337	1	-	RGS12	+	FALSE	FALSE																																					7578																											
+chr4	17906858	17906858	1	+	LCORL	-	FALSE	FALSE																																																							1									
+chr4	17948901	17948901	1	-	LCORL	-	FALSE	FALSE																																																						4										
+chr4	23305059	23305059	1	+	MIR548AJ2	-	FALSE	FALSE																				5																																												
+chr4	25816724	25816724	1	-	SEL1L3	-	FALSE	FALSE																																		170743																														
+chr4	76420068	76420068	1	-	RCHY1	-	FALSE	FALSE							656																																																									
+chr4	80971846	80971846	1	+	ANTXR2	-	FALSE	FALSE								1977								24847																																																
+chr4	82118815	82118815	1	+	LOC101928942	+	FALSE	FALSE																															1					7578																			4									
+chr4	99338469	99338469	1	-	RAP1GDS1	+	FALSE	FALSE																																															4149																	
+chr4	116349954	116349954	1	+	NDST4	-	FALSE	FALSE												7549																																																				
+chr4	118864861	118864861	1	+	NDST3	+	FALSE	FALSE																																																				2												
+chr4	120141963	120141963	1	-	USP53	+	FALSE	FALSE																																														679																		
+chr4	144051463	144051463	1	-	USP38	+	FALSE	FALSE																																																						1										
+chr4	151329831	151329831	1	+	LRBA	-	FALSE	FALSE																																										818																						
+chr4	157864278	157864278	1	-	PDGFC	-	FALSE	FALSE					2764																																				369	7488																						
+chr4	158936222	158936222	1	-	FAM198B	-	FALSE	FALSE						71																		375																																								
+chr4	159424357	159424357	1	-	RXFP1	+	FALSE	FALSE																																																						1										
+chr4	160212289	160212289	1	+	RAPGEF2	+	FALSE	FALSE																																																											1	3592				
+chr4	160386797	160386797	1	-	RAPGEF2	+	FALSE	FALSE							1																																																									
+chr4	162965565	162965565	1	-	LOC101928052	+	FALSE	FALSE																																																				6												
+chr4	170186492	170186492	1	-	SH3RF1	-	FALSE	FALSE					2556							5617																	8882																								5847											
+chr5	445846	445846	1	-	EXOC3	+	FALSE	FALSE																					27748																																											
+chr5	3808872	3808872	1	-	IRX1	+	FALSE	FALSE							1																																																									
+chr5	4644848	4644848	1	+	LOC101929153	+	FALSE	FALSE																								3																																								
+chr5	6312646	6312646	1	-	FLJ33360	-	FALSE	FALSE																																1																																
+chr5	15053406	15053406	1	+	LOC101929454	-	FALSE	FALSE																														2																								2										
+chr5	27142690	27142690	1	-	CDH9	-	FALSE	FALSE								1																																																								
+chr5	27146344	27146344	1	+	CDH9	-	FALSE	FALSE						41																					35																																					
+chr5	32740686	32740686	1	+	NPR3	+	FALSE	FALSE																																									60																							
+chr5	40124364	40124364	1	+	LINC00603	+	FALSE	FALSE																																																	1649															
+chr5	40325923	40325923	1	+	LINC00603	+	FALSE	FALSE																								1																																								
+chr5	58294970	58294970	1	+	PDE4D	-	FALSE	FALSE																																																												1564				
+chr5	58377418	58377418	1	-	PDE4D	-	FALSE	FALSE																																				367																												
+chr5	58551253	58551253	1	+	PDE4D	-	FALSE	FALSE																														1																								1										
+chr5	61171588	61171588	1	-	LOC100506526	-	FALSE	FALSE																																	4																															
+chr5	67850030	67850030	1	-	PIK3R1	+	FALSE	FALSE																																																				1												
+chr5	78323071	78323071	1	+	DMGDH	-	FALSE	FALSE																																																														1		
+chr5	78965255	78965255	1	+	PAPD4	+	FALSE	FALSE																																																				14582												
+chr5	80843628	80843628	1	-	SSBP2	-	FALSE	FALSE																	14																																															
+chr5	83265118	83265118	1	+	EDIL3	-	FALSE	FALSE																																																																574
+chr5	132055120	132055120	1	-	KIF3A	-	FALSE	FALSE						16																					16									95																												
+chr5	132289594	132289594	1	-	AFF4	-	FALSE	FALSE																																																							1									
+chr5	137713947	137713947	1	+	KDM3B	+	FALSE	FALSE																								1																																								
+chr5	138490281	138490281	1	+	SIL1	-	FALSE	FALSE																																			1514																													
+chr5	138965904	138965904	1	-	UBE2D2	+	FALSE	FALSE																																	126795																															
+chr5	141489839	141489839	1	+	NDFIP1	+	FALSE	FALSE					34266																					44132																																						
+chr5	163958637	163958637	1	+	LOC102546299	+	FALSE	FALSE																				328																																												
+chr5	175938587	175938587	1	-	FAF2	+	FALSE	FALSE																																			83																													
+chr5	176571280	176571280	1	-	NSD1	+	FALSE	FALSE																														12288																								5464										
+chr5	176650786	176650786	1	-	NSD1	+	FALSE	FALSE																																																		20790														
+chr5	179427248	179427248	1	-	RNF130	-	FALSE	FALSE																																									17																							
+chr6	2832533	2832533	1	+	SERPINB1	-	FALSE	FALSE																																																														1446		
+chr6	8530639	8530639	1	-	LOC100506207	+	FALSE	FALSE													5919																																																			
+chr6	13683137	13683137	1	+	RANBP9	-	FALSE	FALSE																				404																																												
+chr6	27427231	27427231	1	-	ZNF184	-	FALSE	FALSE																	355																																															6387
+chr6	27827274	27827274	1	-	HIST1H2AL	+	FALSE	FALSE																																																																5
+chr6	29400069	29400069	1	-	OR11A1	-	FALSE	FALSE																																																											1					
+chr6	30033780	30033780	1	+	ZNRD1	+	FALSE	FALSE					7																																																											
+chr6	30299885	30299885	1	-	TRIM39-RPP21	+	FALSE	FALSE																																				291																												
+chr6	30470865	30470865	1	-	HLA-E	+	FALSE	FALSE																				200																																												
+chr6	31546245	31546245	1	+	TNF	+	FALSE	FALSE						6817																					9739								180														7569					2										
+chr6	31562558	31562558	1	+	NCR3	-	FALSE	FALSE						8050																					7639																																					
+chr6	31625722	31625722	1	+	APOM	+	FALSE	FALSE								3475																																		14643																						
+chr6	31754525	31754525	1	+	VARS	-	FALSE	FALSE																	1318																																															
+chr6	31954691	31954691	1	+	C4A	+	FALSE	FALSE																																				56																												
+chr6	32263591	32263591	1	+	C6orf10	-	FALSE	FALSE																																			52																													
+chr6	32288013	32288013	1	+	C6orf10	-	FALSE	FALSE																				19																																												
+chr6	32307563	32307563	1	-	C6orf10	-	FALSE	FALSE						5190																					5636																																					
+chr6	32485115	32485115	1	+	HLA-DRB5	-	FALSE	FALSE																																			1																													
+chr6	32487692	32487692	1	-	HLA-DRB5	-	FALSE	FALSE																																				103																												
+chr6	32492272	32492272	1	+	HLA-DRB5	-	FALSE	FALSE																																																											20583					
+chr6	32516579	32516579	1	+	HLA-DRB6	-	FALSE	FALSE																																																																299
+chr6	32543353	32543353	1	+	HLA-DRB1	-	FALSE	FALSE																																				375						836																						
+chr6	32543443	32543443	1	+	HLA-DRB1	-	FALSE	FALSE																																																											692					
+chr6	32579559	32579559	1	+	HLA-DRB1	-	FALSE	FALSE																																																												19				
+chr6	32739141	32739141	1	-	HLA-DQB2	-	FALSE	FALSE																																										7069																						
+chr6	32992285	32992285	1	-	HLA-DOA	-	FALSE	FALSE																																																				2726		1308										
+chr6	33005270	33005270	1	-	HLA-DPA1	-	FALSE	FALSE																							3																																									
+chr6	33023179	33023179	1	+	HLA-DPA1	-	FALSE	FALSE						11																																																										
+chr6	33039179	33039179	1	+	HLA-DPA1	-	FALSE	FALSE																																									2173																							
+chr6	33222229	33222229	1	+	HCG25	+	FALSE	FALSE					19																																																											
+chr6	34294953	34294953	1	+	NUDT3	-	FALSE	FALSE									30																																																							
+chr6	35561030	35561030	1	-	FKBP5	-	FALSE	FALSE																																				722																												
+chr6	36496286	36496286	1	-	STK38	-	FALSE	FALSE																		265545																																														
+chr6	36500952	36500952	1	+	STK38	-	FALSE	FALSE					1262																																																											
+chr6	37819037	37819037	1	-	ZFAND3	+	FALSE	FALSE																																																												1				
+chr6	42210658	42210658	1	+	TRERF1	-	FALSE	FALSE																				5																																												
+chr6	42577993	42577993	1	+	UBR2	+	FALSE	FALSE																													10																								4											
+chr6	42801194	42801194	1	-	GLTSCR1L	+	FALSE	FALSE																																								1	22																							
+chr6	44407649	44407649	1	+	MIR4642	+	FALSE	FALSE																																			450																													
+chr6	45132409	45132409	1	-	MIR586	-	FALSE	FALSE																														658																								1252										
+chr6	45458153	45458153	1	-	RUNX2	+	FALSE	FALSE																																																																1
+chr6	54718385	54718385	1	+	FAM83B	+	FALSE	FALSE																																																				382												
+chr6	57274854	57274854	1	-	MIR548U	+	FALSE	FALSE																				51			93																																									
+chr6	62942878	62942878	1	+	KHDRBS2	-	FALSE	FALSE																	1																																															
+chr6	79764744	79764744	1	+	PHIP	-	FALSE	FALSE					18																																																											384
+chr6	80195538	80195538	1	-	LCA5	-	FALSE	FALSE																																				17																												
+chr6	86234646	86234646	1	+	SNX14	-	FALSE	FALSE																	1																																													3		
+chr6	95290838	95290838	1	-	MANEA-AS1	-	FALSE	FALSE																																						1																										
+chr6	99208755	99208755	1	+	POU3F2	+	FALSE	FALSE																																																				3												
+chr6	109452362	109452362	1	+	CEP57L1	+	FALSE	FALSE					2034																																																											
+chr6	116711680	116711680	1	+	DSE	+	FALSE	FALSE						1																																																										
+chr6	124778749	124778749	1	+	NKAIN2	+	FALSE	FALSE													2753																						11852																													
+chr6	127638123	127638123	1	+	ECHDC1	-	FALSE	FALSE																																																														8736		
+chr6	143288607	143288607	1	+	LINC01277	-	FALSE	FALSE																																																						1										
+chr6	153023204	153023204	1	-	MYCT1	+	FALSE	FALSE																																																											1					
+chr6	153039202	153039202	1	+	MYCT1	+	FALSE	FALSE																						62627																																										
+chr6	153052484	153052484	1	-	MYCT1	+	FALSE	FALSE																																									28																							
+chr6	153302673	153302673	1	+	FBXO5	-	FALSE	FALSE																																			521																													
+chr6	155869801	155869801	1	+	NOX3	-	FALSE	FALSE								30																																																								
+chr7	2811534	2811534	1	-	GNA12	-	FALSE	FALSE					804																																													690				1										
+chr7	3414310	3414310	1	+	SDK1	+	FALSE	FALSE																																											1																					
+chr7	4853821	4853821	1	+	RADIL	-	FALSE	FALSE												10023																																																				
+chr7	15854126	15854126	1	+	MEOX2-AS1	+	FALSE	FALSE																																																				2												
+chr7	17219208	17219208	1	+	AHR	+	FALSE	FALSE																																																											47					
+chr7	17367483	17367483	1	-	AHR	+	FALSE	FALSE																				1																																												
+chr7	21976460	21976460	1	+	CDCA7L	-	FALSE	FALSE																																																	1															
+chr7	26230889	26230889	1	-	HNRNPA2B1	-	FALSE	FALSE																																				4																												
+chr7	26737320	26737320	1	+	SKAP2	-	FALSE	FALSE																																			5605																									88				
+chr7	26788863	26788863	1	+	SKAP2	-	FALSE	FALSE																						93																																										
+chr7	32184569	32184569	1	-	PDE1C	-	FALSE	FALSE																																																				1												
+chr7	37187803	37187803	1	-	ELMO1	-	FALSE	FALSE																				10377																																												
+chr7	47835115	47835115	1	+	C7orf69	+	FALSE	FALSE																																			3166																													
+chr7	71544203	71544203	1	+	CALN1	-	FALSE	FALSE						2221						4																																															1672					
+chr7	79067210	79067210	1	-	MAGI2-AS3	+	FALSE	FALSE																																													1703										10									
+chr7	85294540	85294540	1	-	SEMA3D	-	FALSE	FALSE																																																															274	
+chr7	100430374	100430374	1	-	EPHB4	-	FALSE	FALSE																																																		1575														
+chr7	111628988	111628988	1	+	DOCK4	-	FALSE	FALSE																																			10255						5179																							
+chr7	131026722	131026722	1	-	MKLN1	+	FALSE	FALSE																				1730																																												
+chr7	137977056	137977056	1	-	TRIM24	+	FALSE	FALSE																																																				1												
+chr7	143286169	143286169	1	-	CTAGE15	+	FALSE	FALSE																																				12																												
+chr7	149426036	149426036	1	-	KRBA1	+	FALSE	FALSE																																																										1						
+chr7	150185026	150185026	1	+	GIMAP8	+	FALSE	FALSE																																	79																															
+chr7	150378002	150378002	1	-	GIMAP2	+	FALSE	FALSE																																																						2										
+chr8	22349535	22349535	1	+	PPP3CC	+	FALSE	FALSE																																																						8										
+chr8	23292889	23292889	1	+	ENTPD4	-	FALSE	FALSE								2802												1																																												
+chr8	25299454	25299454	1	+	KCTD9	-	FALSE	FALSE						23																		27																																								
+chr8	54665539	54665539	1	+	ATP6V1H	-	FALSE	FALSE																								203																																								
+chr8	66512182	66512182	1	+	ARMC1	-	FALSE	FALSE																																														2881																		
+chr8	73142013	73142013	1	-	LOC392232	-	FALSE	FALSE					1																																																											
+chr8	82569064	82569064	1	-	IMPA1	-	FALSE	FALSE						93																		555																	5767																							
+chr8	117710838	117710838	1	-	EIF3H	-	FALSE	FALSE																	2377																																															
+chr8	117718852	117718852	1	+	EIF3H	-	FALSE	FALSE				1																																																												
+chr8	144938117	144938117	1	+	EPPK1	-	FALSE	FALSE																																																											1621					
+chr8	144984240	144984240	1	-	PLEC	-	FALSE	FALSE																														1																																		
+chr8	145019012	145019012	1	+	PLEC	-	FALSE	FALSE					9367								3962							13816															156											6641						49550									31			
+chr8	145282014	145282014	1	+	MROH1	+	FALSE	FALSE																																																												4344				
+chr8	145529753	145529753	1	-	HSF1	+	FALSE	FALSE					2																																																											
+chr8	145977776	145977776	1	+	ZNF251	-	FALSE	FALSE																																																												3412				
+chr9	13144195	13144195	1	-	MPDZ	-	FALSE	FALSE																																													3237																			
+chr9	33561242	33561242	1	-	ANKRD18B	+	FALSE	FALSE																	1																																															
+chr9	72900224	72900224	1	+	SMC5	+	FALSE	FALSE																				22																																												
+chr9	77749836	77749836	1	+	OSTF1	+	FALSE	FALSE																																														935																		
+chr9	88172540	88172540	1	-	AGTPBP1	-	FALSE	FALSE																								85																																								
+chr9	97775613	97775613	1	+	C9orf3	+	FALSE	FALSE																																																						11940										
+chr9	114496154	114496154	1	+	C9orf84	-	FALSE	FALSE																				21																																												
+chr9	115018115	115018115	1	+	PTBP3	-	FALSE	FALSE																																										1020																						
+chr9	119174029	119174029	1	-	PAPPA	+	FALSE	FALSE																																									162																							
+chr9	123873962	123873962	1	-	CNTRL	+	FALSE	FALSE																																														3577																		
+chr9	125739449	125739449	1	+	RABGAP1	+	FALSE	FALSE																																																	11						4									
+chr9	128044919	128044919	1	-	GAPVD1	+	FALSE	FALSE																																			135																													
+chr9	128462592	128462592	1	+	MAPKAP1	-	FALSE	FALSE					29																																																											
+chr9	130431989	130431989	1	+	STXBP1	+	FALSE	FALSE																																													848																			
+chr9	130847435	130847435	1	-	SLC25A25	+	FALSE	FALSE																																										94																						
+chr9	131281743	131281743	1	-	GLE1	+	FALSE	FALSE																																						4																										
+chr9	131346660	131346660	1	+	SPTAN1	+	FALSE	FALSE																																				6																												
+chr9	131543691	131543691	1	+	TBC1D13	+	FALSE	FALSE																																					7981																											
+chr9	132695851	132695851	1	-	FNBP1	-	FALSE	FALSE																																																						281										
+chr9	133638621	133638621	1	-	ABL1	+	FALSE	FALSE																																								4																								
+chr9	134016180	134016180	1	-	NUP214	+	FALSE	FALSE																							1552																																									
+chr9	134062915	134062915	1	+	NUP214	+	FALSE	FALSE																																																							4									
+chr9	134285300	134285300	1	-	PRRC2B	+	FALSE	FALSE									2104																																	981																						
+chr9	134809711	134809711	1	+	MED27	-	FALSE	FALSE																																														2253																		
+chr9	137639114	137639114	1	-	COL5A1	+	FALSE	FALSE					19846																					28693									2306																													
+chr9	138919458	138919458	1	+	NACC2	-	FALSE	FALSE																																														1596																		
+chr9	138923148	138923148	1	-	NACC2	-	FALSE	FALSE																																																						87										
+chr9	138927995	138927995	1	+	NACC2	-	FALSE	FALSE					4															23			1																																									
+chr9	139358457	139358457	1	-	SEC16A	-	FALSE	FALSE																																																											3332					
+chr9	139601927	139601927	1	-	FAM69B	+	FALSE	FALSE																																												38123																				
+chr9	139709259	139709259	1	-	CCDC183-AS1	-	FALSE	FALSE								119																																																								
+chr9	139715657	139715657	1	-	RABL6	+	FALSE	FALSE												1																																																				
+chr9	139723910	139723910	1	+	RABL6	+	FALSE	FALSE																				1435			26523																																									
+chr9	139794005	139794005	1	+	TRAF2	+	FALSE	FALSE																																			469																													
+chr9	139842026	139842026	1	-	C8G	+	FALSE	FALSE																																															63125																	
+chr9	139990130	139990130	1	-	MAN1B1	+	FALSE	FALSE																																			6494																													
+chr9	139994333	139994333	1	-	MAN1B1	+	FALSE	FALSE																																														10815																		
+chr9	140160023	140160023	1	+	NELFB	+	FALSE	FALSE																																						8																										
+chr9	140161737	140161737	1	-	NELFB	+	FALSE	FALSE																																													134																			
+chr9	140258685	140258685	1	+	EXD3	-	FALSE	FALSE					2795																																																											
+chr9	140552255	140552255	1	-	EHMT1	+	FALSE	FALSE																							758																																				594					
+chr9	140558231	140558231	1	+	EHMT1	+	FALSE	FALSE																																														2681								1										
+chrX	11682507	11682507	1	+	ARHGAP6	-	FALSE	FALSE																																																										2						
+chrX	12393027	12393027	1	-	FRMPD4	+	FALSE	FALSE																														1																																		
+chrX	16835131	16835131	1	-	TXLNG	+	FALSE	FALSE																																																							1									
+chrX	27931234	27931234	1	+	DCAF8L1	-	FALSE	FALSE													2																											6569						3631																		
+chrX	39289422	39289422	1	+	LINC01282	-	FALSE	FALSE							2																																																									
+chrX	40988222	40988222	1	-	USP9X	+	FALSE	FALSE								2512																																																								
+chrX	41064660	41064660	1	-	USP9X	+	FALSE	FALSE																																																						4439										
+chrX	44093706	44093706	1	+	EFHC2	-	FALSE	FALSE																																				71																												
+chrX	46747143	46747143	1	+	LINC01545	-	FALSE	FALSE																				1279																																												
+chrX	48492713	48492713	1	+	WDR13	+	FALSE	FALSE								1117																																																								
+chrX	48492719	48492719	1	+	WDR13	+	FALSE	FALSE								1																																																								
+chrX	48895462	48895462	1	+	TFE3	-	FALSE	FALSE																																																																296
+chrX	109997030	109997030	1	-	CHRDL1	-	FALSE	FALSE																																									185																							
+chrX	111013984	111013984	1	-	TRPC5	-	FALSE	FALSE																																																												4388				
+chrX	114543938	114543938	1	-	LUZP4	+	FALSE	FALSE																						5240																																										
+chrX	123112505	123112505	1	+	STAG2	+	FALSE	FALSE														5																																																		
+chrX	125397493	125397493	1	-	DCAF12L2	-	FALSE	FALSE																																																				24												
+chrX	149199728	149199728	1	-	LINC00894	+	FALSE	FALSE																																					2																											
+chrX	153288180	153288180	1	-	MECP2	-	FALSE	FALSE																																																															10315	
+chrX	154322808	154322808	1	+	BRCC3	+	FALSE	FALSE																																			17																													
+chrX	154331528	154331528	1	+	BRCC3	+	FALSE	FALSE																															24590																								43891									

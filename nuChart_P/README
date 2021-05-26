@@ -1,0 +1,66 @@
+##################
+### NuChart-II ###
+##################
+ 
+NuChart-II is a C++ software designed to explore, annotate and visualize Hi-C data in a gene-centric fashion.
+NuChart-II is highly optimized to fully exploit the parallel computing capabilities exposed by modern computers, 
+and results in a fast and accurate tool for DNA exploration. 
+
+ -- Requirements
+Make sure your compiler is up to date and compatible with C++11 (gcc 4.7 or above, icc 12.1 or above)
+Make sure you have libgsl2 and libgsl-dev installed (in Debian-based and Ubuntu, simply install them
+through apt-get)
+Make sure you have graphviz installed, with binaries in your PATH, otherwise graphs won't be drown
+automatically.
+
+
+ -- Compile
+COMPILE with make: make [options]
+
+ -- OPTIONS:
+ 	[DEBUG]:			compile for Debugging, with -g and NO optimisations
+ 	[EXPINTER]:			expand search to inter-genic neighbours.
+ 	[TESTn]:			where 'n' is 1-4, enables features and more textual outputs for specific testing situations (EXPERIMENTAL)
+ 	
+ -- EXAMPLES:
+  	make				compile with compiler optimisations (-O3)
+	make DEBUG=YES		compile for Debugging, with -g and NO optimisations
+	make EXPINTER=YES	enable search for inter-genic neighbours
+
+---------------------------------------------------------------
+
+ -- USAGE:	./nuchart -S[sam-file] -W[num-workers] -L[search-level] -G[genes] -g[grain] -E[edge-prob] -P[plot] -C[coords] -H[help]
+
+ -- DESCRIPTION
+	[help]:			prints this help message and exits.
+	[sam-file]:		path to the file of nucleotide sequence alignments (DEFAULT is '~/datasets/LiebermanAiden.sam')
+	[num-workers]:	number of worker threads to be used (DEFAULT is 1, i.e. sequential)
+	[search-level]:	deepness of the search - e.g.: 1 = direct neighbours; 2 = neighbours of neighbours, etc. (DEFAULT is 1)
+	[genes]:		entrezID or symbol of the starting gene. There can be more than one gene. (REQUIRED)
+	[grain]:		decide the grain for the parallel execution (DEFAULT IS 0, which means 'num_tasks/num_workers')
+	[edge-prob]:	edges with probability below this threshold will not be considered (DEFAULT is 0, which means
+					compute score for ALL edges. Allowed probability values range from 0.2 to 1)
+	[plot]:			plot graphs using GraphViz
+	[coords]:		cluster of Genes. use all the genes found within given coordinates. Chromosome must be specified
+					(es: -C chr7:27126219,27250333)
+
+ -- EXAMPLES:
+	./nuchart -S ~/datasets/SSRR400266.sam -W 16 -L 3 -G 7157 2035 4622
+		This will run NuChart over the given SAM file, using 16 worker and iterating until
+		neighbours of neighbours of neighbours of the starting genes are found.
+		Graph construction begins from the 3 specified gene IDs.
+
+	./nuchart -L 2 -W 8 -C chr7:27126219,27250333
+		This will run NuChart over the default SAM file, using 8 workers and iterating until
+		neighbours of neighbours are found. Graph construction begins with the genes found within the given coordinates.
+		
+	./nuchart -L 2 -W 8 -C IGL
+		This will run NuChart over the default SAM file, using 8 workers and iterating until
+		neighbours of neighbours are found. Graph construction begins with the genes found within the specified cluster.
+
+	./nuchart -G TP53 -L 2 -E 0.6 -P
+		This will run NuChart over the default SAM file in sequential mode, iterating until
+		neighbours of neighbours are found. Graph construction begins with the gene of given symbol.
+		Score for Edges with probability lower than 0.6 will not be plotted.
+		Resulting neighbour graphs will be plotted using GraphViz (if installed, otherwise it saves the .dot file) and 
+		saved in a folder named 'gViz_GENENAME'.
